@@ -3,8 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Curso Android/Marvel/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.1" />
+        <entry key="..\:/Curso Android/Marvel/app/src/main/res/drawable/ic_favorite.xml" value="0.1" />
+        <entry key="..\:/Curso Android/Marvel/app/src/main/res/drawable/ic_home.xml" value="0.2255" />
         <entry key="..\:/Curso Android/Marvel/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
-        <entry key="..\:/Curso Android/Marvel/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Curso Android/Marvel/app/src/main/res/layout/activity_main.xml" value="0.22" />
         <entry key="..\:/Curso Android/Marvel/app/src/main/res/layout/activity_splash.xml" value="0.1" />
         <entry key="..\:/Curso Android/Marvel/app/src/main/res/layout/fragment_details_character.xml" value="0.1" />
         <entry key="..\:/Curso Android/Marvel/app/src/main/res/layout/fragment_favorite_character.xml" value="0.25" />
@@ -12,6 +15,8 @@
         <entry key="..\:/Curso Android/Marvel/app/src/main/res/layout/fragment_search_character.xml" value="0.1" />
         <entry key="..\:/Curso Android/Marvel/app/src/main/res/layout/item_character.xml" value="0.1" />
         <entry key="..\:/Curso Android/Marvel/app/src/main/res/layout/item_comic.xml" value="0.1" />
+        <entry key="..\:/Curso Android/Marvel/app/src/main/res/menu/menu_details.xml" value="0.28425925925925927" />
+        <entry key="..\:/Curso Android/Marvel/app/src/main/res/menu/menu_nav.xml" value="0.28425925925925927" />
       </map>
     </option>
   </component>
