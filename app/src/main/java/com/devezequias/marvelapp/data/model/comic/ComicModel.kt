@@ -1,6 +1,6 @@
 package com.devezequias.marvelapp.data.model.comic
 
-import com.devezequias.marvelapp.data.ThumbnailModel
+import com.devezequias.marvelapp.data.model.ThumbnailModel
 import com.google.gson.annotations.SerializedName
 import java.io.Serializable
 
