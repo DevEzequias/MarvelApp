@@ -6,6 +6,8 @@ Recursos utilizados:
 
 - Kotlin
 
+- Hilt
+
 - Glide
 
 - Arquitetura MVVM
